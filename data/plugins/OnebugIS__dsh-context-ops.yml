@@ -1,0 +1,6 @@
+url: https://github.com/OnebugIS/dsh-context-ops
+name: OnebugIS/dsh-context-ops
+category: session
+description:
+  en: 'Routes compaction summaries to a stronger model and adds skills for session handoff and context-pressure decisions.'
+  zh: '把压缩摘要路由到强模型，并新增交接与上下文压力决策两个技能。'
